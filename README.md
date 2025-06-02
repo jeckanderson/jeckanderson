@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello world! i'm Jeck Anderson 👋
+### i'm Jeck Anderson 👋
 
 
 ##### 🌐 Socials:
